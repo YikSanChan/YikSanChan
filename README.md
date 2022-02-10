@@ -32,4 +32,8 @@ Find me at:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yiksanchan&show_icons=true&line_height=27" alt="Yik San Chan's github stats"/>
 </a>
 
+<br/>
+<br/>
+
+![](https://komarev.com/ghpvc/?username=yiksanchan)
 ![](https://hit.yhype.me/github/profile?user_id=17229109)
