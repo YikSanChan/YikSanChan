@@ -3,11 +3,10 @@
 
 About me:
 
-- 🚀 I'm builing [oom.ai](https://oom.ai) - star 🌟 [our repo](https://github.com/oom-ai/oomstore) to support!
 - ✍️ I enjoy [writing](https://yiksanchan.com/posts).
 - 💬 Ask me about Feature Store and MLOps.
 - 📫 Reach me at [Twitter](https://twitter.com/yiksanchan) or [email](mailto:evan.chanyiksan@gmail.com).
-- ⚡ Fun fact: I moved **A LOT**. Beijing (PKU) ➡️ Pittsburgh (CMU) 🔁 NYC (Wife) ➡️ SF (Twitter & Tubi) ➡️ Beijing (PalFish & oom)
+- ⚡ Fun fact: I moved **A LOT**. Beijing (PKU) ➡️ Pittsburgh (CMU) 🔁 NYC (Wife) ➡️ SF (Twitter & Tubi) ➡️ Beijing (PalFish)
 
 Find me at:
 
